@@ -1,0 +1,2 @@
+D:\dubnawevegotproblem\cg\project\games\obj\Debug\games.csprojAssemblyReference.cache
+D:\dubnawevegotproblem\cg\project\games\obj\Debug\games.csproj.CoreCompileInputs.cache
